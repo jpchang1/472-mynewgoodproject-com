@@ -1,0 +1,23 @@
+{
+    "title": "Food Network",
+    "description": "",
+    "referenceId": null,
+    "date_created": "1508373448",
+    "date_modified": "1508428375",
+    "tags": null,
+    "sourceId": null,
+    "status": "pending",
+    "visibility": "1",
+    "id": "123179143",
+    "loginId": "1758991",
+    "entityType": "3",
+    "titleTextEncoded": "food-network",
+    "category": null,
+    "duration": null,
+    "settings": {
+        "canvasImage": "default_canvas3.jpg",
+        "colorClass": "light",
+        "canvasType": "gallery"
+    },
+    "transcripts": null
+}
